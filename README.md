@@ -20,6 +20,7 @@
    - 데이터 로드 및 확인   </br>
    - 데이터 전처리     </br>
    - plotly를 이용한 데이터 시각화     </br>
+   데이터 출처 : Kaggle (<a>https://www.kaggle.com/datasets/benroshan/ecommerce-data?select=List+of+Orders.csv</a>)
 
 3. 2의 결과 대시보드 그리기
    - streamlit을 이용하여 대시보드 만들기
